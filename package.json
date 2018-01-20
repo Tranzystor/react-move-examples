@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3-ease": "^1.0.3",
     "react": "^16.2.0",
+    "react-collapse": "^4.0.3",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-height": "^3.0.0",
+    "react-motion": "^0.5.2",
+    "react-move": "^2.6.0",
+    "react-scripts": "1.0.17",
+    "styled-components": "^2.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
